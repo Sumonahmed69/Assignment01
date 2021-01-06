@@ -1,0 +1,182 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+ /*  Navbar section */ 
+.nav{
+    color: #000;
+    text-decoration: none;
+    margin: 20px 40px 40px 10px;        
+    padding:5px;
+    float: right;
+    font-weight: bold;
+    font-size: 18px;
+}
+.nav:hover{
+    color: tomato;   
+}
+
+.color-highlight1{
+
+    color: teal;
+}
+.color-highlight2{
+
+    color: salmon;
+}
+
+.top{
+    width: 40%;
+    margin-left: 7%;
+    margin-top: 80px;
+    padding: 2%;
+    float: left;
+}
+
+.hire-btn{
+    text-decoration: none;
+    
+    color: white;
+    padding: 15px 30px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    background-color: firebrick;
+}
+
+.hire-btn:hover{
+    box-shadow: 0 5px 15px rgba(107, 22, 31, 0.322);
+}
+
+
+.top-p{
+
+    margin-top: 30px;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.pagr-highlight-color{
+    color: gray;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+h1{
+    font-size: 30px;
+    word-spacing: 2px;
+    text-align: center;
+    margin-top:40px ;
+}
+.img-about{
+    width: 40%;
+    
+    margin-bottom:50px;
+}
+#mid-p{
+    float:right;
+    margin-right: 20px;
+}
+#about-img{
+    margin-left: 7%;
+    margin-top: 80px;
+}
+
+#design-h1{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    padding-top: 80px;
+}
+
+.experince{
+    text-align: center;
+  box-shadow: 0 2px 6px rgba(65,11,16,.15);
+  background-color:white;
+  border-radius: 1rem;
+  float: left;
+  margin-left: 68px;
+  height: 300px;
+  margin-bottom: 20px;
+  width: 25%;
+}
+
+.experince:hover{
+    box-shadow: 0 3px 12px rgba(65,11,16,.25);
+}
+.img-web{
+
+    margin-top: 20px;
+    width: 180px;
+}
+.web-experince{
+    text-decoration: none;
+    color: firebrick;
+    font-weight: bold;
+
+}
+#bottom{
+    background-color:whitesmoke;
+    height: 600px;
+    
+    
+    
+}
+.clear{
+     clear: both;   
+}
+.chat-section{
+    width: 700px;    
+    margin:200px auto 50px auto;
+}
+.chat-box{
+    background-image: url(IMAGES/footer\ bg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: white;
+    font-weight: 800;
+    height:80px;
+    padding: 50px;
+    
+}
+
+.inqiry-p{
+    display: inline;
+    margin-left: 120px;
+}
+#PH-logo{
+    width: 70px;
+    height: 70px;
+    float: left;
+}
+.half{
+    width: 30%;
+    padding: 7%;
+    margin-left: 50px;
+    float: left;
+}
+#end-p{
+    margin-left: 100px;
+    font-weight: 600;
+    color: gray;
+}
+#end-h{
+    margin-top: 35px;
+}
+.s-img{
+    margin: 23px;
+    width: 70px;
+    height: 70px;
+    float: left;
+}
+.s-img:hover{
+    box-shadow: 0 5px 15px rgba(107, 22, 31, 0.322);
+}
+#Caption{
+    color: gray;
+    text-align: center;
+    padding: 30px;
+    
+}
+
+
