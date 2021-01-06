@@ -130,7 +130,7 @@ h1{
     margin:200px auto 50px auto;
 }
 .chat-box{
-    background-image: url(IMAGES/footer\ bg.png);
+    background-image: url("images/footer-bg.png");
     background-repeat: no-repeat;
     background-size: contain;
     color: white;
